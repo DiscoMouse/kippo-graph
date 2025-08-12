@@ -1,6 +1,12 @@
 Kippo-Graph
 ===========
 
+THIS STANDALONE FORK HAS BEEN PUT IN ARCHIVE MODE AND SHOULD NOT BE USED.
+If you have a reason to use kippo-graph you should clone from the original repository
+Here:
+
+https://github.com/ikoniaris/kippo-graph
+
 Kippo-Graph is a full featured script to visualize statistics for a Kippo based SSH honeypot.
 
 It uses the Libchart PHP chart drawing library by Jean-Marc Trémeaux,
